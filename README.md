@@ -6,14 +6,21 @@
 
 「誰でも簡単に手品ができる」をコンセプトに開発した手品アプリです。  
 2020年の外出自粛期間に家でも楽しめるコンテンツを提供したいと思い、開発しました。  
-言語：Swift  
+開発言語：Swift  
 
 ![image](https://user-images.githubusercontent.com/66913121/102319583-7b4e5780-3fbe-11eb-8af7-98d20cb50c42.png)
 
-[Magicians Society](https://magicians-society.com/)
+[Magicians Society](https://magicians-society.com/)  
 「マジシャンのマジシャンによるマジシャンのためのSNS」をコンセプトに開発したSNSサイトです。  
 マジックの演技動画の投稿や、自身が作成したトリック・製品の販売・購入などを行うサイトです。  
 ※本サイトはポートフォリオサイトとして作成したものであるため、実際に運用はしておりません。  
+開発言語：  
+フロントエンド:HTML、CSS、JavaScript、jQuery、Ajax  
+バックエンド:Ruby/Ruby on Rails
+GitHub:[Magicians-Society](https://github.com/devmatsuko/Magicians-Society)
+
+![image](https://user-images.githubusercontent.com/66913121/102321106-8f935400-3fc0-11eb-8039-4dec7b48a93c.png)
+
 
 # 趣味
 手品(主にステージマジック)を10年ほど続けております。  
