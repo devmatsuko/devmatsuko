@@ -6,7 +6,8 @@
 
 「誰でも簡単に手品ができる」をコンセプトに開発した手品アプリです。  
 2020年の外出自粛期間に家でも楽しめるコンテンツを提供したいと思い、開発しました。  
-開発言語：Swift  
+開発言語：Swift
+GitHub:[ProphecyMagicApp](https://github.com/devmatsuko/ProphecyMagicApp)  
 
 ![image](https://user-images.githubusercontent.com/66913121/102319583-7b4e5780-3fbe-11eb-8af7-98d20cb50c42.png)  
   
