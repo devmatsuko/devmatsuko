@@ -2,7 +2,8 @@
 
 # これまでの個人開発成果物
 
-[Prophecy〜予言マジック〜](https://apps.apple.com/jp/app/prophecy-%E4%BA%88%E8%A8%80%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF/id1528918453)
+[Prophecy〜予言マジック〜](https://apps.apple.com/jp/app/prophecy-%E4%BA%88%E8%A8%80%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF/id1528918453)  
+[実演動画](https://www.youtube.com/watch?v=yabrcQwxoSY)  
 
 「誰でも簡単に手品ができる」をコンセプトに開発した手品アプリです。  
 2020年の外出自粛期間に家でも楽しめるコンテンツを提供したいと思い、開発しました。  
