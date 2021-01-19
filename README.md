@@ -21,7 +21,7 @@ GitHub:[ProphecyMagicApp](https://github.com/devmatsuko/ProphecyMagicApp)
 ※本サイトはポートフォリオサイトとして作成したものであるため、実際に運用はしておりません。  
 開発言語：  
 フロントエンド:HTML、CSS、JavaScript、jQuery、Ajax  
-バックエンド:Ruby/Ruby on Rails  
+バックエンド:Ruby/Rails  
 GitHub:[Magicians-Society](https://github.com/devmatsuko/Magicians-Society)  
 
 ![image](https://user-images.githubusercontent.com/66913121/102321106-8f935400-3fc0-11eb-8039-4dec7b48a93c.png)
