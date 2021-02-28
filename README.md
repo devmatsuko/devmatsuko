@@ -15,7 +15,7 @@ GitHub:[ProphecyMagicApp](https://github.com/devmatsuko/ProphecyMagicApp)
   
 ***   
 
-[Magicians Society](https://magicians-society.com/)    
+Magicians Society（現在公開停止中）   
 「マジシャンのマジシャンによるマジシャンのためのSNS」をコンセプトに開発したSNSサイトです。  
 マジックの演技動画の投稿や、自身が作成したトリック・製品の販売・購入などを行うサイトです。  
 ※本サイトはポートフォリオサイトとして作成したものであるため、実際に運用はしておりません。  
