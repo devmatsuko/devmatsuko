@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/devmatsuko/devmatsuko/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # これまでの個人開発成果物
-Prophecy〜予言マジック〜
+Prophecy〜予言マジック〜  
 [App Store](https://apps.apple.com/jp/app/prophecy-%E4%BA%88%E8%A8%80%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF/id1528918453)  
 [実演動画](https://www.youtube.com/watch?v=yabrcQwxoSY)  
 
